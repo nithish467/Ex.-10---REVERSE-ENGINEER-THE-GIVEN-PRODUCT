@@ -1,6 +1,6 @@
 # Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
 
-### DATE: 
+### DATE:01/05\2024
 
 ## AIM: 
 ### To reverse engineering the product and prototyping the same in 3D printer.
@@ -32,8 +32,11 @@
 
 ## Input:
 
+![image](https://github.com/nithish467/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150232274/1034a5a6-1442-4092-94d6-f7ebb626abf5)
 
 ### Output:
+![Screenshot 2024-05-01 151802](https://github.com/nithish467/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/150232274/8f8f4b00-882b-41c6-bdb5-b2118b89c04a)
+
 
 
 ### Name:NITHISH KUMAR S
